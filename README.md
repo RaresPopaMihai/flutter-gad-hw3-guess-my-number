@@ -10,7 +10,7 @@ When the app starts, a game will automatically be available for the user.
 
 The flow of the game:
 - User starts to guess the number by tiping it into the text field
-  - ![gameStart.png](readme-assets%2FgameStart.png)
+  - ![startGame.png](readme-assets/startGame.png)
 - After writing a number, the user can press the guess button to see if they guessed the number. If not, they will be informed if the number is smaller or greater
   - ![img.png](readme-assets/wrongGuessLower.png)
   - ![img.png](readme-assets/wrongGuessHigher.png)
